@@ -48,3 +48,13 @@
     border:  solid rgb(196, 193, 159);
     border-radius: 5px 5px 5px 5px;      
 }
+
+.linkcontainer{
+    margin: auto;
+    margin-top: 20px;
+    padding: 20px;
+    width: fit-content;
+    background-color: antiquewhite;
+    border: solid rgb(196, 193, 159);
+    border-radius: 5px 5px 5px 5px ;
+}
