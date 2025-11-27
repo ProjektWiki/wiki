@@ -5,10 +5,10 @@
 
 .title{
     margin: auto;
-    background-color: aqua;
+    background-color: antiquewhite;
     text-align: center;
     width: fit-content;
-    border: solid black;
+    border: solid  rgb(196, 193, 159);
     border-radius: 5px 5px 5px 5px ;
     padding: 5px;
 
@@ -18,7 +18,20 @@
     flex-direction: column;
     margin-top: 50px;
     padding: 30px;
-    background-color: blue;
+    background-color: rgb(215, 215, 226);
     margin: auto;
+    width: 90vw;
 
+}
+.firstparagraph{
+    margin: 15px;
+    background-color: antiquewhite;
+    border:  solid rgb(196, 193, 159);
+    border-radius: 5px 5px 5px 5px;
+}
+.secondparagraph{
+    margin: 15px;
+    background-color: antiquewhite;
+    border:  solid rgb(196, 193, 159);
+    border-radius: 5px 5px 5px 5px;   
 }
