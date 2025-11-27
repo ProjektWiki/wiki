@@ -48,3 +48,23 @@
     border:  solid rgb(196, 193, 159);
     border-radius: 5px 5px 5px 5px;      
 }
+.boxcontainer{
+ display: grid;
+ grid-template-columns: 1fr 1fr;
+justify-items: center;
+
+}
+.box{
+    margin: 15px;
+    background-color: antiquewhite;
+    border:  solid rgb(196, 193, 159);
+    border-radius: 5px 5px 5px 5px; 
+    width: 400px;
+    height: 500px;
+    position: relative;
+} 
+.box>a{
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+}
