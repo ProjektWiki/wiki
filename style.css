@@ -42,11 +42,29 @@
     border:  solid rgb(196, 193, 159);
     border-radius: 5px 5px 5px 5px;   
 }
-.lastparagraph{
+.fourthparagraph{
     margin: 15px;
     background-color: antiquewhite;
     border:  solid rgb(196, 193, 159);
     border-radius: 5px 5px 5px 5px;      
+}
+.fifthparagraph{
+    margin: 15px;
+    background-color: antiquewhite;
+    border:  solid rgb(196, 193, 159);
+    border-radius: 5px 5px 5px 5px;      
+}
+.sixthparagraph{
+    margin: 15px;
+    background-color: antiquewhite;
+    border:  solid rgb(196, 193, 159);
+    border-radius: 5px 5px 5px 5px 5px 5px 5px;      
+}
+.lastparagraph{
+    margin: 15px;
+    background-color: antiquewhite;
+    border:  solid rgb(196, 193, 159);
+    border-radius: 5px 5px 5px 5px ;      
 }
 
 .linkcontainer{
