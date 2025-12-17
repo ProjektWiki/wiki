@@ -48,7 +48,6 @@
     border:  solid rgb(196, 193, 159);
     border-radius: 5px 5px 5px 5px;      
 }
-<<<<<<< HEAD
 
 .linkcontainer{
     margin: auto;
@@ -59,7 +58,6 @@
     border: solid rgb(196, 193, 159);
     border-radius: 5px 5px 5px 5px ;
 }
-=======
 .boxcontainer{
  display: grid;
  grid-template-columns: 1fr 1fr;
@@ -80,4 +78,5 @@ justify-items: center;
     bottom: 5px;
     right: 5px;
 }
->>>>>>> d9deabcfc838f1b55a299aa4de584dd64da162e3
+
+
