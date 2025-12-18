@@ -97,4 +97,13 @@ justify-items: center;
     right: 5px;
 }
 
+.navigation{
+    margin: auto;
+    margin-top: 20px;
+    padding: 10px;
+    width: fit-content;
+    background-color: antiquewhite;
+    border: solid rgb(196, 193, 159);
+    border-radius: 5px 5px 5px 5px ;
+}
 
