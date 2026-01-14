@@ -84,11 +84,12 @@ justify-items: center;
 }
 .box{
     margin: 15px;
+    padding: 10px;
     background-color: antiquewhite;
     border:  solid rgb(196, 193, 159);
     border-radius: 5px 5px 5px 5px; 
     width: 400px;
-    height: 500px;
+    height: 300px;
     position: relative;
 } 
 .box>a{
